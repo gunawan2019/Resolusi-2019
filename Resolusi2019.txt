@@ -4,5 +4,6 @@ Resolusi 2019 di bidang Pemrograman
 3. menguasai css
 4. menguasai php
 5. menguasai javascript
-6. menguasai node.js
-7. menguasai mysql/mariadb 
+6. menguasai mysql/mariadb 
+7. bootstrap
+8. framework php
